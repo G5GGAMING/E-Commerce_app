@@ -1,6 +1,10 @@
 # E-Commerce_app
 
-**رابط المشروع من Netlify:**
+**رابط المشروع الاول من Netlify:**
+
+https://g5ggaming-ecommerce-app.netlify.app/
+
+**رابط المشروع الثاني من Netlify:**
 
 https://g5ggaming-ecommerce-app-2.netlify.app/
 
