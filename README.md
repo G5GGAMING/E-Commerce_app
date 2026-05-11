@@ -2,7 +2,7 @@
 
 **رابط المشروع من Netlify:**
 
-https://g5ggaming-ecommerce-app.netlify.app/
+https://g5ggaming-ecommerce-app-2.netlify.app/
 
 ![](1.png)
 ![](2.png)
